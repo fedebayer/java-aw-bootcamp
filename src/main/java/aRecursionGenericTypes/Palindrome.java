@@ -6,6 +6,7 @@ public class Palindrome {
         System.out.println(isPalindrome(12)); // false
         System.out.println(isPalindrome(123)); // false
         System.out.println(isPalindrome(12321)); // true
+        System.out.println(isPalindrome(22321)); // true
         System.out.println(isPalindromeWithoutRecursive(1)); // true
         System.out.println(isPalindromeWithoutRecursive(12)); // false
         System.out.println(isPalindromeWithoutRecursive(123)); // false
@@ -36,7 +37,6 @@ public class Palindrome {
             start++;
             last--;
         }
-
         return true;
     }
 }
