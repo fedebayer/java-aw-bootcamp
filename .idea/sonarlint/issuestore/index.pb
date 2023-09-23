@@ -10,3 +10,7 @@ d
 4src/main/java/aRecursionGenericTypes/Palindrome.java,b\0\b07d061fe901dbac924c58de63dfdf86a97db2ff
 c
 3src/main/java/aRecursionGenericTypes/Factorial.java,f\d\fd4879eb66a3501c1cb156982238d96a570f081c
+i
+9src/main/java/aRecursionGenericTypes/BinaryToDecimal.java,2\8\28b143e320dc3b5fbd112d6bd86ead524da5d000
+i
+9src/main/java/aRecursionGenericTypes/DecimalToBinary.java,4\2\42c9c3688141beeb2800225c2e9b48b3116b8be9
